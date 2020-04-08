@@ -22,5 +22,5 @@ Please note that Altair is still in development phase, so things might change ov
 1. Overview of Altair
   - What is Altair?
   - Installation
-2. Exploring a Real World Problem
-3. Pros and Cons
+2. Explore more in Altair
+3. 
