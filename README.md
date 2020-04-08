@@ -9,6 +9,13 @@ With Altair, you can spend more time understanding your data and its meaning. Al
 - If you are using the conda package manager, the equivalent is:
 #### $ conda install -c conda-forge altair vega_datasets
 
+## Table of Contents
+1. Overview of Altair
+  1. What is Altair?
+  2. Installation
+2. Exploring a Real World Problem
+3. Pros and Cons
+
 
 Python provides a lot of libraries, specifically for plotting and visualization and I usually have a tough time picking out which one to use for my problem statement.
 
