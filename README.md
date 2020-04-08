@@ -11,8 +11,8 @@ With Altair, you can spend more time understanding your data and its meaning. Al
 
 ## Table of Contents
 1. Overview of Altair
-  1. What is Altair?
-  2. Installation
+  -- What is Altair?
+  -- Installation
 2. Exploring a Real World Problem
 3. Pros and Cons
 
