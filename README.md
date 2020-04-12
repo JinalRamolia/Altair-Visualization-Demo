@@ -23,4 +23,3 @@ Please note that Altair is still in development phase, so things might change ov
   - What is Altair?
   - Installation
 2. Explore more in Altair
-3. 
